@@ -1,0 +1,2 @@
+# The plugin itself only uses the Python standard library on top of Volatility 3.
+volatility3>=2.26.0
